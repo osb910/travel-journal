@@ -3,10 +3,8 @@ import Header from './components/Header.js';
 import Main from './components/Main.js';
 
 function App() {
-
-  
   return (
-    <div className="App">
+    <div className='App'>
       <Header />
       <Main />
     </div>
