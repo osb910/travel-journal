@@ -8,3 +8,5 @@ This is a solo project based on [this figma design](https://www.figma.com/file/Q
 - Fetching the images from the real Unsplash API, using useEffect along with useState
 - A fully-responsive page using four media queries with a mobile-first approach
 - Added the dateTime html attribute to the time element by calculating it with a helper function (for accessibility and practice).
+
+### Live: [travel-journal-omarsh.netlify.app](https://travel-journal-omarsh.netlify.app)
